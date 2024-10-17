@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://api.staging-green.manabie.io/payment/api/v1/proxy';

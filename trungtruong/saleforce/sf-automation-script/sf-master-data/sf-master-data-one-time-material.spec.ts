@@ -1,0 +1,58 @@
+import { test, chromium } from "@playwright/test";
+import cmsLoginPage from "../../sf-login-page";
+import sF_CommonStep from "../../sf-common-steps";
+// product offering
+import sF_GeneralInfo from "../../sf-page/sf-create-product-page/sf-general-info";
+import sF_ProductDetail from "../../sf-page/sf-create-product-page/sf-product-detail";
+import sF_ProductOffering from "../../sf-page/sf-product-offering-page/sf-product-offering";
+import sF_AddOrUpdatePrice_Dialog from "../../sf-page/sf-product-offering-page/sf-add-update-product-price-dialog/sf-add-update-product-price-dialog";
+import environment from "../../utils/environment";
+
+test.describe('Create one-time material product', () => {
+
+    let login: cmsLoginPage;
+    let sFCommonStep: sF_CommonStep;
+    let sFGeneralInfo: sF_GeneralInfo;
+    let sFProductDetail: sF_ProductDetail;
+    let sFProductOffering: sF_ProductOffering;
+    let sFAddOrUpdatePriceDialog: sF_AddOrUpdatePrice_Dialog;
+
+    test.beforeEach(async () => {
+        const browser = await chromium.launch();
+        const context = await browser.newContext({ignoreHTTPSErrors: true });
+        const page = await context.newPage();
+        await page.goto(environment.sFUrl);
+        login = new cmsLoginPage(page);
+        sFCommonStep = new sF_CommonStep(page);
+        sFGeneralInfo = new sF_GeneralInfo(page);
+        sFProductDetail = new sF_ProductDetail(page);
+        sFProductOffering = new sF_ProductOffering(page);
+        sFAddOrUpdatePriceDialog = new sF_AddOrUpdatePrice_Dialog(page);
+    })
+
+    test.afterEach(async () => {
+        const browser = await chromium.launch();
+        await browser.close();
+    })
+
+    test('Create one-time material product', async () => {
+        await login.adminSignIn();
+        await sFCommonStep.access_ProductOffering_Url();
+        await sFGeneralInfo.fill_OTM_ProductName();
+        await sFGeneralInfo.select_ProductType_Material();
+        await sFGeneralInfo.fill_AvailableFrom_2021Jan01();
+        await sFGeneralInfo.fill_AvailableUntil_2030Dec31();
+        await sFGeneralInfo.select_AvailableAccount_Trung01();
+        await sFGeneralInfo.select_AvailableGrade_Old();
+        await sFGeneralInfo.select_AcademicYear_2023();
+        await sFProductDetail.select_MaterialType_OTM();
+        await sFProductDetail.fill_CustomBillingDate_2021Jan01();
+        await sFProductDetail.select_Tax_10Percent_Array0();
+        await sFProductDetail.select_Discount_10Percent();
+        await sFCommonStep.click('Submit');
+        await sFProductOffering.clickBtn_PO_AddOrUpdatePrice();
+        await sFAddOrUpdatePriceDialog.select_PriceType_Enrolled();
+        await sFAddOrUpdatePriceDialog.fill_OneTimePriceAmount_1000();
+        await sFCommonStep.click('Submit');
+    })
+})

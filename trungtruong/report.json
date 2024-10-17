@@ -1,0 +1,123 @@
+{
+  "config": {
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {},
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "D:/Automation-learning/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "id": "",
+        "name": "",
+        "testDir": "D:/Automation-learning",
+        "testIgnore": [],
+        "testMatch": [
+          "**/?(*.)@(spec|test).*"
+        ],
+        "timeout": 120000
+      }
+    ],
+    "reporter": [
+      [
+        "json",
+        {
+          "outputFile": "report.json"
+        }
+      ],
+      [
+        "html",
+        {
+          "open": "on-failure"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 15000
+    },
+    "configFile": "D:\\Automation-learning\\playwright.config.ts",
+    "rootDir": "D:/Automation-learning",
+    "quiet": false,
+    "shard": null,
+    "updateSnapshots": "missing",
+    "version": "1.32.1",
+    "workers": 4,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "trung-truong\\auto-create-new-order\\auto-create-one-time-material-order\\NOTM01.spec.ts",
+      "file": "trung-truong/auto-create-new-order/auto-create-one-time-material-order/NOTM01.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Create one-time material order without tax and discount",
+          "file": "trung-truong/auto-create-new-order/auto-create-one-time-material-order/NOTM01.spec.ts",
+          "line": 12,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Create order with 1 one-time material",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 120000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 23586,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Array 0 - Billing Date: 2023/05/11\n"
+                        },
+                        {
+                          "text": "Product Name & Price [0]E2E-OTM1-F100-0%￥100 - E2E-OTM1-F100-0%￥100\n"
+                        },
+                        {
+                          "text": "Sub-Total: Sub-total￥100 - Sub-total￥100\n"
+                        },
+                        {
+                          "text": "Total: Total￥100 - Total￥100\n"
+                        },
+                        {
+                          "text": "Result: You have created the order successfully!\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2023-05-11T09:58:12.548Z",
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "2d49e1e8b032a5a2353e-7a98746f6ca80b292719",
+              "file": "trung-truong/auto-create-new-order/auto-create-one-time-material-order/NOTM01.spec.ts",
+              "line": 43,
+              "column": 9
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

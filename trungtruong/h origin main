@@ -1,0 +1,1158 @@
+[33m7e513c91[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m update order detail for custom billing
+[33m99c48008[m[33m ([m[1;32mlt-64323[m[33m)[m sfcb01
+[33ma7d10a8a[m[33m ([m[1;31morigin/lt-64323[m[33m)[m sfcb01:1
+[33m6efea678[m Merge pull request #85 from AutomationQA-TrungTruong:lt-64277
+[33md4cfea89[m[33m ([m[1;31morigin/lt-64277[m[33m, [m[1;32mlt-64277[m[33m)[m update
+[33mb88f6d9d[m update
+[33m5a95264f[m rsk-ussr
+[33mfa18023f[m rsk-ussl05
+[33m7aa5ab3b[m rsk-ussl04
+[33m933dbaed[m ypdate
+[33mb3f5e90e[m Merge pull request #84 from AutomationQA-TrungTruong:lt-64146
+[33meb4be280[m[33m ([m[1;31morigin/lt-64146[m[33m, [m[1;32mlt-64146[m[33m)[m update
+[33m197a351f[m Merge pull request #82 from AutomationQA-TrungTruong:lt-63418
+[33m0593e9c8[m[33m ([m[1;31morigin/lt-63418[m[33m, [m[1;32mlt-63418[m[33m)[m update
+[33m17344429[m Merge branch 'main' of https://github.com/AutomationQA-TrungTruong/Automation-learning into lt-63418
+[33m5fc050fb[m Merge pull request #83 from AutomationQA-TrungTruong:lt-63464
+[33m698c2a96[m[33m ([m[1;31morigin/lt-63464[m[33m, [m[1;32mlt-63464[m[33m)[m RSK-CGABI8
+[33m6e4b56a1[m rsk-cgabi7
+[33m99b41041[m RSK-CGABI6
+[33m16a8b44d[m naming
+[33m86cf2d41[m RSK-UGABI8
+[33ma4ff7572[m RSK-UGABI7
+[33mad4ffb65[m rsk-ugabi06
+[33ma18ca964[m update
+[33m99d1a4a6[m update
+[33m0230585a[m update
+[33m9c4a3327[m Merge pull request #81 from AutomationQA-TrungTruong/lt-63296
+[33mb91ef010[m[33m ([m[1;31morigin/lt-63296[m[33m, [m[1;32mlt-63296[m[33m)[m update
+[33m5785917d[m update
+[33m404269d9[m update
+[33mbb9cc892[m update
+[33mce90f879[m update
+[33m7d946ca9[m update
+[33m7bfcd90e[m update
+[33mb5bd10fc[m update
+[33mddfb79ab[m update
+[33m9b0549d5[m update
+[33m596a75db[m update
+[33m2c6d6b7f[m update
+[33m1db1f2f0[m update
+[33m7a70a4f1[m update
+[33m3ecb5a27[m update
+[33m39e56186[m update
+[33m716bdb4f[m update
+[33me61229db[m update
+[33md80487c9[m update
+[33m6c670540[m update
+[33m39529447[m update
+[33m0f07e834[m update
+[33m6e52e5b0[m update
+[33m361ac894[m update
+[33m68b0ddf8[m Merge pull request #80 from AutomationQA-TrungTruong/lt-63217
+[33mf002cf12[m[33m ([m[1;31morigin/lt-63217[m[33m, [m[1;32mlt-63217[m[33m)[m update
+[33m95b7efbb[m update
+[33ma725ef0b[m update
+[33m22bf760e[m update
+[33mcf46377d[m update
+[33mafb4f91f[m update
+[33me05d7e2c[m Merge pull request #79 from AutomationQA-TrungTruong/lt-62981
+[33m588a02a6[m[33m ([m[1;31morigin/lt-62981[m[33m, [m[1;32mlt-62981[m[33m)[m update
+[33m676692f1[m update
+[33mc965b99a[m update
+[33md47494fd[m update
+[33m78eb78c0[m Merge pull request #78 from AutomationQA-TrungTruong/lt-62850
+[33me44ce40a[m[33m ([m[1;31morigin/lt-62850[m[33m, [m[1;32mlt-62850[m[33m)[m Update test for update order
+[33mdff94504[m update
+[33m4ed45e4d[m update
+[33m25691ca5[m Merge pull request #77 from AutomationQA-TrungTruong:lt-62460
+[33m1bd231eb[m[33m ([m[1;31morigin/lt-62460[m[33m, [m[1;32mlt-62460[m[33m)[m update
+[33mb5348fe8[m update
+[33m6fa59670[m update
+[33m54b47201[m Merge pull request #76 from AutomationQA-TrungTruong/void-enrollment-product
+[33m19e838ef[m[33m ([m[1;31morigin/void-enrollment-product[m[33m, [m[1;32mvoid-enrollment-product[m[33m)[m update
+[33m5f2a41cf[m update
+[33mdbe5e903[m update
+[33md70349bf[m update
+[33mdfaaa16f[m update
+[33md793960f[m update
+[33m0649acdf[m update
+[33m05d291ea[m update
+[33m4dfa788f[m update
+[33m0eb47cfb[m update
+[33m72abbdf6[m update
+[33m2069f92d[m Merge pull request #75 from AutomationQA-TrungTruong/lt-62013-void-new-order
+[33maa38aa40[m[33m ([m[1;31morigin/lt-62013-void-new-order[m[33m)[m update
+[33m9ed24e36[m update
+[33macbb268f[m[33m ([m[1;32mlt-62013-void-new-order[m[33m)[m update
+[33m827a60dc[m one-time material
+[33m9e8b3c0b[m Merge pull request #74 from AutomationQA-TrungTruong/lt-60870-update-frequency-package-with-enrollled-price
+[33meeb76089[m[33m ([m[1;31morigin/lt-60870-update-frequency-package-with-enrollled-price[m[33m, [m[1;32mlt-60870-update-frequency-package-with-enrollled-price[m[33m)[m update
+[33m6f6c3724[m update
+[33ma4b07f8f[m update
+[33me164cb70[m update
+[33medf5b1a3[m update
+[33m19758513[m update
+[33m2a2a35f2[m update
+[33ma4f5424a[m update
+[33ma5f40f08[m update
+[33m7479fbf9[m update
+[33m3bc9c963[m update
+[33me8c85f82[m update
+[33m70232ac7[m update
+[33mcad5a50b[m update
+[33md41eb9a1[m Merge pull request #73 from AutomationQA-TrungTruong:lt-61871-update-auto-test-for-lt-61278
+[33m36a60fca[m[33m ([m[1;31morigin/lt-61871-update-auto-test-for-lt-61278[m[33m)[m update
+[33mdc2ff46a[m[33m ([m[1;32mlt-61871-update-auto-test-for-lt-61278[m[33m)[m update
+[33meb204522[m update
+[33mac0ab4f2[m update
+[33mba642fab[m Merge pull request #72 from AutomationQA-TrungTruong:lt-61748-kec-testing
+[33mfbc5f6b8[m[33m ([m[1;31morigin/lt-61748-kec-testing[m[33m, [m[1;32mlt-61748-kec-testing[m[33m)[m update
+[33m84c03bad[m update
+[33m3c7021c8[m Merge pull request #71 from AutomationQA-TrungTruong/lt-61632-cancel-loa-order
+[33mfa72d5b4[m[33m ([m[1;31morigin/lt-61632-cancel-loa-order[m[33m, [m[1;32mlt-61632-cancel-loa-order[m[33m)[m update
+[33me1196033[m update
+[33mb50902e9[m update
+[33mb57df6cf[m update
+[33m6215efff[m Merge pull request #70 from AutomationQA-TrungTruong:lt-61545-cancel-withdrawal-order
+[33m3ca696c1[m[33m ([m[1;31morigin/lt-61545-cancel-withdrawal-order[m[33m, [m[1;32mlt-61545-cancel-withdrawal-order[m[33m)[m update
+[33m9cd081a2[m Merge pull request #69 from AutomationQA-TrungTruong/lt-61369-preprod-testing
+[33m2ef5de45[m[33m ([m[1;31morigin/lt-61369-preprod-testing[m[33m, [m[1;32mlt-61369-preprod-testing[m[33m)[m update
+[33m1de493e2[m update
+[33m0ad33f3f[m update
+[33mcdfd6d84[m update
+[33mb2c7abc6[m update
+[33ma4677718[m update
+[33me34c0789[m update
+[33m7da6af99[m update
+[33m9bf73114[m Merge pull request #68 from AutomationQA-TrungTruong/lt-61182
+[33me5cc72fa[m[33m ([m[1;31morigin/lt-61182[m[33m, [m[1;32mlt-61182[m[33m)[m update
+[33m77603484[m update
+[33m22173295[m Merge pull request #67 from AutomationQA-TrungTruong:lt-61332-update-test-for-cancel-enrollment-order
+[33m80c0ada2[m[33m ([m[1;31morigin/lt-61332-update-test-for-cancel-enrollment-order[m[33m, [m[1;32mlt-61332-update-test-for-cancel-enrollment-order[m[33m)[m update
+[33mba4bb6aa[m Merge pull request #66 from AutomationQA-TrungTruong/lt-61182-update-case-for-cancel-enrollment-order
+[33m9a486353[m[33m ([m[1;31morigin/lt-61182-update-case-for-cancel-enrollment-order[m[33m, [m[1;32mlt-61182-update-case-for-cancel-enrollment-order[m[33m)[m update
+[33mdd707572[m Merge pull request #65 from AutomationQA-TrungTruong/lt-61108-cancel-enrollment-order
+[33m0088342b[m[33m ([m[1;31morigin/lt-61108-cancel-enrollment-order[m[33m, [m[1;32mlt-61108-cancel-enrollment-order[m[33m)[m update
+[33m153a9860[m update
+[33m37e2d56a[m update
+[33m88a7b12d[m update
+[33m17f90ef8[m update
+[33m6bbe9f3f[m Merge pull request #64 from AutomationQA-TrungTruong/lt-61031
+[33m5f5551c2[m[33m ([m[1;31morigin/lt-61031[m[33m, [m[1;32mlt-61031[m[33m)[m update
+[33m38178605[m update
+[33mbc1d4e5b[m update
+[33m3235124d[m update
+[33m4eb16e55[m update
+[33m290ce058[m update
+[33m93f7b3de[m Merge pull request #63 from AutomationQA-TrungTruong/lt-60382-create-withdrawal-order
+[33m7cfa550a[m[33m ([m[1;31morigin/lt-60382-create-withdrawal-order[m[33m, [m[1;32mlt-60382-create-withdrawal-order[m[33m)[m update
+[33m5a527c1a[m update
+[33me71fc4ba[m update
+[33mcfaa69b8[m update
+[33m69e029a6[m update
+[33m8ba2e69d[m update
+[33meab39e15[m update
+[33mae487408[m update
+[33mc255cdf7[m update
+[33m7b319056[m update
+[33m379da8a0[m update
+[33mc964c2fc[m update
+[33m25cdd56a[m Merge pull request #62 from AutomationQA-TrungTruong/lt-60019-auto-for-enrollment-order
+[33m3fdfab15[m[33m ([m[1;31morigin/lt-60019-auto-for-enrollment-order[m[33m)[m update
+[33mfa5366ed[m[33m ([m[1;32mlt-60019-auto-for-enrollment-order[m[33m)[m update
+[33m51d656ce[m update
+[33mcba237a3[m update
+[33m69abd407[m update
+[33m9e369f89[m update
+[33me2c0b1d6[m update
+[33md7cbe91d[m update
+[33m4ea3ed51[m Merge pull request #60 from AutomationQA-TrungTruong/lt-59339
+[33ma79c7069[m[33m ([m[1;31morigin/lt-59339[m[33m, [m[1;32mlt-59339[m[33m)[m update
+[33m69ba5a5b[m update
+[33md60ed8fb[m update
+[33m4f70f25b[m update
+[33m8607d0b2[m update
+[33m01e06abb[m update
+[33md693eeb6[m update
+[33md64391da[m update
+[33m05e49ef5[m update
+[33m90f6c798[m update
+[33m0f24288e[m update
+[33m1bbccc15[m update
+[33m7bc8b457[m update
+[33m97f4689b[m update
+[33meee852e3[m update
+[33mb1cc65cc[m update
+[33m51e81cc2[m update
+[33m80d3c07e[m update
+[33m1383bdf2[m update
+[33m76d61561[m update
+[33me809cb99[m update
+[33m4c4c6c03[m update
+[33m358f55b8[m update
+[33m97fadbe9[m update
+[33m823ae55d[m update
+[33mc26488d4[m update
+[33mb40afa6b[m update
+[33m503ad449[m update
+[33m5e29c8d6[m update
+[33m5d85dd9a[m update
+[33maf910f66[m update
+[33mcb108ea5[m update
+[33me0230e5f[m update
+[33m99733d02[m update
+[33m1db6edce[m Merge pull request #59 from AutomationQA-TrungTruong/lt-58008
+[33m5b83cb0c[m[33m ([m[1;31morigin/lt-58008[m[33m, [m[1;32mlt-58008[m[33m)[m update
+[33m4d38fcf9[m update
+[33mfe63a2b5[m update
+[33m89f0bf8b[m update
+[33m08bed7e1[m update
+[33m644c60d0[m update
+[33md49410d6[m void new order
+[33m810726da[m Merge pull request #58 from AutomationQA-TrungTruong/lt-49810-timesheet
+[33mba6be26c[m[33m ([m[1;31morigin/lt-49810-timesheet[m[33m)[m update
+[33m11907501[m[33m ([m[1;32mlt-49810-timesheet[m[33m)[m update
+[33m22d771e0[m update
+[33ma1d1b60a[m update
+[33md7f249c2[m update
+[33m1716f592[m update
+[33mcc9da0fc[m update
+[33med163b58[m update
+[33mca8729f0[m update
+[33m16379bde[m update
+[33m21bf2751[m update
+[33m0c0d0574[m update
+[33m9fd5f9b1[m update
+[33mc23f9b5e[m update
+[33m841d8a2f[m update
+[33mffe0b00a[m update
+[33m40a5505e[m update
+[33mbfcf6c23[m update
+[33m7d732bf8[m update
+[33m0f1640de[m update
+[33m73e70482[m update
+[33mecb14824[m update
+[33m4ff15f2d[m update
+[33m7ce9ccb0[m update
+[33m37f85c59[m update
+[33mbe3ad7f4[m update
+[33med1dd9cd[m update
+[33m5c41c484[m update
+[33m92faf825[m update
+[33m5da38804[m update
+[33m122eda8b[m update
+[33m4b3f957e[m update
+[33m27fb5593[m update
+[33m67815295[m update
+[33m4b1cdb09[m update
+[33m2af1b871[m update
+[33m5f3718ab[m update
+[33m5ca78573[m update
+[33mfb26e6e9[m update
+[33mb4a85884[m update
+[33m7368e31f[m update
+[33m5edc3f21[m update
+[33m51db1b46[m update
+[33mbf61994f[m update
+[33m7d66976f[m update
+[33m25e357f0[m update
+[33m9ddc4e22[m update
+[33me9b477f6[m update
+[33m354fada0[m update
+[33m1f2d69d5[m update
+[33maa644cdc[m update
+[33ma9784e32[m update
+[33m6a74d7bf[m update
+[33m44892752[m update
+[33m495ab806[m update
+[33mdec098c6[m update
+[33m78ff6279[m update
+[33me0c4cc27[m update
+[33m94825d51[m update
+[33m916870bd[m update
+[33m4b55e983[m update
+[33m3435d8b3[m update
+[33m3ed12aca[m update
+[33mc377830a[m update
+[33mc3f462fa[m update
+[33mee0af150[m update
+[33mc55bca11[m update
+[33m525fff6a[m update
+[33mc3da685f[m update
+[33m7f27c4af[m update
+[33m3d6b69d1[m update
+[33m3d4ccd4a[m update
+[33m770e27bc[m update
+[33m098408c5[m update
+[33m59a46307[m update
+[33m0f887c68[m update
+[33mdf8d4766[m update
+[33m75e815cc[m update
+[33mf6483f14[m update
+[33m52e16362[m update
+[33m333f7e82[m update
+[33m85919916[m update
+[33md38cd7b6[m update
+[33mc2a67cf7[m update
+[33m3749fdfc[m update
+[33m2d4a8885[m update
+[33mc1a6e086[m update
+[33mb4386f56[m update
+[33ma155ba41[m update
+[33ma7d23ca7[m update structure
+[33m77a4b449[m update
+[33mf1ff6dfa[m update
+[33m013b03f7[m update
+[33m58ab29fb[m update
+[33m3ef6b900[m update
+[33mc93bd663[m update
+[33mc3842cab[m update
+[33m984bc70d[m update
+[33m5a588328[m update
+[33m16aac6fb[m update
+[33m702523e5[m update
+[33m5612ee26[m update
+[33m5fa53699[m update
+[33m7655f38c[m update
+[33mcc571da8[m update
+[33mca56a847[m update
+[33m92abe36b[m update
+[33mba3822b2[m update
+[33mba2753f1[m update
+[33m27fa4f8a[m update
+[33m24175454[m update
+[33m60ff8000[m update
+[33mde7a63d8[m update
+[33m965d193a[m update
+[33m8a240e81[m update
+[33m7ac452d9[m update
+[33m9a25f777[m update
+[33m6bf2c748[m update
+[33me492c477[m update
+[33m13d5fc97[m update
+[33mb66b29f9[m update
+[33m40746be2[m update
+[33ma777b83d[m update
+[33m06bdc6f0[m update
+[33mcfc6238e[m update
+[33mcd39cbbc[m update
+[33ma2649625[m update
+[33m81838fe0[m update
+[33m90a4851d[m update payment method
+[33m1655fc34[m update
+[33m24de888c[m update
+[33ma5508778[m update
+[33m9d405273[m update
+[33m97917ba6[m update
+[33m63105b24[m update
+[33m7ee9df25[m update
+[33m9ecf7335[m update
+[33m2129c564[m update
+[33m8fafcc87[m update
+[33me46eda86[m update
+[33m788383d2[m update
+[33m4106a4a0[m update
+[33m6738993d[m update
+[33m4cebedd5[m update
+[33med6c5f3d[m update
+[33m2ab62ec9[m update
+[33m3386d95d[m update
+[33mae1e1f9c[m update
+[33m7633c756[m update
+[33m2d69481d[m update
+[33m459b5959[m update
+[33m0378d275[m update
+[33m5c5bf6d5[m update
+[33m80fe34bd[m update
+[33m76a68f3b[m update
+[33m8ce88e1a[m update
+[33mbdf7141d[m update
+[33mbcdd5724[m update
+[33m7bf1a12b[m update
+[33m05b07d01[m update
+[33m2c1a5497[m update
+[33m543acc7d[m update
+[33m1e226155[m update
+[33m03f21bca[m update
+[33m239a7e9d[m update
+[33mef10d1e5[m update
+[33m926bbc7c[m update
+[33m532c70fe[m update
+[33m40b17af0[m update
+[33mc4c5938c[m update
+[33mdf9b0599[m update
+[33m5a911b94[m update
+[33mb13965b2[m update
+[33m88592913[m update
+[33mf0f67ced[m update
+[33m5e674063[m update
+[33m73e9e361[m update
+[33m71b7fa04[m update
+[33m6b6809ae[m update
+[33mdc259457[m update
+[33md691c34c[m update
+[33mad21e26f[m update
+[33m6bda0aaa[m update
+[33m07ddde11[m update
+[33m50ab669f[m update
+[33m8c025aa9[m update
+[33m48272c51[m update
+[33m6ec97299[m Merge pull request #57 from AutomationQA-TrungTruong/lt-46248-operation-fee
+[33m263f77ae[m update
+[33m2a2bef71[m update
+[33m6d60197d[m update
+[33m94cf4b45[m update
+[33m1ffce93e[m update
+[33m677d71fe[m update
+[33m43e950df[m update
+[33mc0188c3f[m update csv
+[33me99d6265[m update
+[33mb9bee12d[m update
+[33m75c065ea[m update
+[33mbf065780[m update
+[33me6a19b71[m update
+[33m553867d6[m update
+[33m3f415884[m update
+[33m5131c652[m update
+[33mc761f224[m csv recurring material operation fee
+[33m68d59030[m up02
+[33m40ff8e68[m up01
+[33m8577f720[m update
+[33m5b6806c3[m Merge pull request #56 from AutomationQA-TrungTruong/lt--4579-student-course
+[33m725bea8f[m[33m ([m[1;31morigin/lt--4579-student-course[m[33m)[m update
+[33medd05719[m Merge pull request #55 from AutomationQA-TrungTruong/lt--4579-student-course
+[33m0e4076b4[m student course
+[33mf2a9953a[m Merge pull request #54 from AutomationQA-TrungTruong/update-student-status
+[33m2388094f[m[33m ([m[1;31morigin/update-student-status[m[33m)[m UPDATE
+[33m912654e0[m update
+[33m0b0980d9[m update
+[33m263b7dde[m update
+[33ma3d3832b[m update
+[33m32ac3de4[m update
+[33ma271fe34[m enrollment price
+[33m2d05099a[m update
+[33m2dd3a71e[m add associate product
+[33m20b3ffa9[m create associate product
+[33m3032ead9[m cancel associate product
+[33m663677d3[m update frequency package
+[33m8526ccc1[m CSV FRQUENCY PACKAGE
+[33m422b4841[m update schedule package
+[33m82567c20[m CSV SCHEDULE PACKAGE
+[33m17ae390e[m update recurring material
+[33mb90c27fd[m update recurring material
+[33m0dbaff49[m update slot based package
+[33m5033b5db[m update one-time package
+[33mb5fbf987[m update onetime fee
+[33m9b19ac8e[m update
+[33m5fd4b1e7[m Merge pull request #53 from AutomationQA-TrungTruong/lt-424406-student-course
+[33mbfe5faa7[m update
+[33mc3f87393[m update
+[33m87a8b14a[m update
+[33ma1eb0456[m uotm01
+[33ma83959a7[m er03
+[33m8a865b31[m er02
+[33m342db148[m er01
+[33mc4091720[m update
+[33m17cca7f9[m all csv relate to product
+[33m0087cf13[m update one-time material
+[33m07275edc[m update
+[33mdc25856a[m update
+[33m95311dc7[m update
+[33m07d9d5ce[m update auto test
+[33m13d07d9f[m Merge pull request #52 from AutomationQA-TrungTruong/lt-40446-enrollment-price
+[33m61dde996[m ep06
+[33m6fc1dc37[m update
+[33mb7e8f464[m ep02
+[33ma4cce1ee[m ep01
+[33m71059617[m update
+[33md1fd96a6[m csv file
+[33m1a31e22c[m update path
+[33m62c0b6c1[m update
+[33md9476f05[m update
+[33m5265b897[m update
+[33mb942df3d[m update
+[33m53a28132[m update
+[33mcc95381d[m update resource_large
+[33mc9d058b7[m update
+[33m8c5ea633[m update
+[33m74c379fc[m update
+[33m75a56e73[m update
+[33me424fb6f[m Merge pull request #50 from AutomationQA-TrungTruong/create-circle-ci
+[33m369fc11a[m[33m ([m[1;31morigin/create-circle-ci[m[33m)[m Merge branch 'main' into create-circle-ci
+[33m2c426805[m Merge pull request #51 from AutomationQA-TrungTruong/circleci-project-setup
+[33md9358091[m circle ci
+[33m44759fc0[m[33m ([m[1;31morigin/circleci-project-setup[m[33m)[m Add .circleci/config.yml
+[33m1f096e5c[m Merge pull request #49 from AutomationQA-TrungTruong/lt-40305-associate-product
+[33m3e49b42e[m cap05
+[33me2952ebf[m cap04
+[33m1390fc1f[m cap04
+[33m9147ce1a[m cap03
+[33m51136f0e[m cap03
+[33m0de260c3[m cap01 scenario 4
+[33m11e8a67c[m cap01 scenario 4
+[33m9b74c732[m cap01 scenario 3
+[33mb162506c[m cap01 scenario 2
+[33m43db4aa2[m update custom billing new order
+[33m1503f8a4[m update all fail test
+[33m05165973[m fix monday test update recurring material
+[33ma358278f[m update
+[33mf98895ff[m update
+[33m502f25b3[m update
+[33mfe5825c5[m update
+[33meabd6d01[m update
+[33m8822c786[m update
+[33m99810b2a[m update
+[33m2b5c0b37[m Add .circleci/config.yml
+[33m96d6178a[m Add .circleci/config.yml
+[33m2c64ceeb[m Add .circleci/config.yml
+[33m75afdc35[m npwtap03
+[33mf66a00f1[m npwtap02
+[33m26685dcb[m npwtap01
+[33mfb68b50c[m NPWAP02
+[33mfa61b8e8[m NPWAP01
+[33m7eb3db25[m new
+[33m5c80fcb6[m Merge pull request #48 from AutomationQA-TrungTruong/lt-38960-review-flag
+[33m425e903a[m[33m ([m[1;31morigin/lt-38960-review-flag[m[33m)[m update update
+[33m899ee0ac[m urm05
+[33m788128a8[m urm04
+[33md15329b0[m urm03
+[33m4edddc1f[m urm02
+[33m4e4b2043[m urm01
+[33mf3765816[m update schedule package
+[33m1a0a8383[m update frequency
+[33m64c463c6[m update slot
+[33mfda193c4[m update update slot based package
+[33ma2504394[m update update one time package
+[33m8d8b0b41[m update
+[33mc36c87cd[m update
+[33m986c58ab[m review flag
+[33m63776f40[m update
+[33ma1410a22[m Merge pull request #47 from AutomationQA-TrungTruong/lt-37018-graduate-withdrawal-recurring-product
+[33m285ef377[m[33m ([m[1;31morigin/lt-37018-graduate-withdrawal-recurring-product[m[33m)[m update readme
+[33m5fab54bd[m update
+[33m31196800[m update
+[33m43a6e529[m er02 update
+[33m417454fc[m er05 schedule package
+[33mb6a81461[m er05 frquency package
+[33m51f43b30[m csv for another type of package
+[33m4b89477b[m ER01 and ER02
+[33mec6978ca[m add step cannot create
+[33m2c2aa1d0[m create enrollment request for withdrawn student
+[33mc73c56e3[m potential and graudate student
+[33mf500bf36[m update
+[33m3065d5cc[m update
+[33m1a11ca28[m update slotbased package
+[33m9d291c12[m update alot
+[33m7632cb3d[m create student potential
+[33m5231fbfc[m update
+[33m7d33ba37[m update path for create new order
+[33m44bd7f97[m update
+[33ma47a4e9e[m update path
+[33m9bfa040f[m update path
+[33mf49829e2[m update path
+[33m5784a09c[m update path
+[33ma2bbb013[m update direction
+[33mffc63604[m update folder direction
+[33m9a9dadcc[m update name
+[33mfc6d00ee[m Merge pull request #46 from AutomationQA-TrungTruong/lt-37287-update-recurring-fee
+[33m9daab948[m update and add new some steps
+[33m3bb00c71[m Merge pull request #45 from AutomationQA-TrungTruong/lt-38526-security-filter-new-pr
+[33m1786fffc[m scf04
+[33m31e9e2c8[m scf02
+[33m111744e8[m scf03
+[33m44f4e6e6[m hq role
+[33m94bc493f[m update
+[33m9742101c[m Merge pull request #44 from AutomationQA-TrungTruong/lt37288-update-one-time-package
+[33mb5872bfb[m[33m ([m[1;31morigin/lt37288-update-one-time-package[m[33m)[m uotp03
+[33m711a360b[m update
+[33m80a68bc6[m uotp02 scenario 2
+[33maaa6b17b[m uotp02 scenario 1
+[33mb7922859[m uotp01 scenario 4
+[33m6ee673c3[m uotp01 scenario 3
+[33md7d5540e[m uotp01 scenario 2
+[33m38d19d10[m update
+[33mfdf83e2b[m uotp01 scenario 1
+[33m703727de[m update
+[33macbbd9e4[m update
+[33m1aa6452e[m update
+[33m9c4e3233[m update util
+[33me37bcdc1[m Merge pull request #43 from AutomationQA-TrungTruong/lt-36546-update-frequency-package
+[33mbdb3e61a[m ufp14
+[33m8a68d6eb[m ufp13
+[33mc8d62c68[m ufp12
+[33mc715ce29[m ufp11
+[33m37cb1e3e[m ufp10
+[33m61c57708[m ufp09
+[33m531ac204[m ufp08
+[33m2cff9d8f[m ufp07
+[33m6bba6671[m ufp06
+[33m98b621ec[m ufp05
+[33me0c1e2dc[m ufo04 scenario 3
+[33m686fff19[m ufp04 scenario 2
+[33m4241ffe2[m ufp04 scenario 1
+[33m4b25dd95[m ufp03
+[33m5604f077[m ufp02
+[33m4bbef176[m update
+[33m6eb3a3e8[m ufp01 scenario 4
+[33m04c4c41d[m usp01 scenario 3
+[33mf04d0180[m ufp01 scenario 2
+[33md76b65b3[m ufp01 scenario 1
+[33m4ba94209[m csv
+[33m0d0e5c32[m Merge pull request #42 from AutomationQA-TrungTruong/maintance-bulk-order
+[33m5d776823[m nbo08
+[33mfb7e1a8f[m nbo07
+[33mb1b77ae4[m nbo06
+[33md3258057[m nbo05
+[33mb96716cb[m nbo04
+[33m6e3f7747[m nbo02 nbo03
+[33mfa6034c4[m nbo01
+[33m2faa5066[m remove some step definition
+[33m3dc24590[m update element
+[33m99db8917[m Merge pull request #41 from AutomationQA-TrungTruong/lt-36036--update-schedule-package
+[33m12cb0281[m usp13 ups14
+[33mc74fcfdb[m usp12
+[33m68fa4cd7[m usp11
+[33m34f9b1de[m usp10
+[33m7ff0db0f[m usp09
+[33mf212f93e[m usp07 and usp08
+[33me482bb5b[m usp06
+[33maeb6d597[m usp05
+[33m715824fe[m usp04 scenario 3
+[33m28e24a9b[m usp04 scenario 2
+[33ma31ee385[m usp04 scenario 1
+[33m393bc797[m usp03 scenario 2 update
+[33m58ac4293[m usp03 scenario 2
+[33m2149a1ec[m usp03 scenario 1 update
+[33mab6a578b[m usp03 scenario 1
+[33mf9f9c60b[m usp02 scenario 2
+[33m4d048748[m usp02 scenario 1
+[33mdc407244[m usp01 scenario 4
+[33m717d24ec[m usp01 scenario 1
+[33m42613d36[m usp01 scenario 2
+[33m73c7a1d6[m usp01 scenario 1
+[33m30e24ce3[m Merge pull request #40 from AutomationQA-TrungTruong/lt-36171-update-recurring-fee
+[33m926fe925[m nrf13
+[33mf0784adf[m nrf12
+[33m08e87293[m nrf11
+[33mdd6a483e[m nrf10
+[33m0427f044[m nrf09
+[33md69e7820[m nrf08
+[33m7ec2e177[m nrf06
+[33m1827045f[m nrf07
+[33m2a1cc0f4[m csv update
+[33m0e43114c[m nrf05
+[33m2b8bf4a3[m nrf04
+[33mf2145de3[m nrf03
+[33m24f2c32f[m nrf02
+[33m696f83c7[m update csv for recurring fee
+[33m51b1068e[m Merge pull request #39 from AutomationQA-TrungTruong/lt-35944-new-order-one-time-fee
+[33md633ab5b[m uotf08
+[33me7c9c368[m uotf07
+[33mbf6f67f8[m uotf04
+[33m851d177e[m uotf03
+[33m0766b377[m uotf02
+[33m2ccb9535[m uotf01
+[33m3421f583[m update
+[33m294e0d06[m update
+[33mc27fbc4b[m Merge pull request #38 from AutomationQA-TrungTruong/LT-35242-27-01-2023
+[33m0e23d216[m urm14 scenario 2
+[33mb82c8c72[m urm14 scenario 1
+[33m908d5ce5[m urm13 scenario 2
+[33me003408a[m urm13 scenario 1
+[33m9429d20c[m urm12 update
+[33me3bd6df1[m urm12 scenario 2
+[33m02682711[m urm12 scenario 1
+[33m534c4349[m update
+[33mab6f43f0[m URM10 SCENARIO 2
+[33mf9fb5c2d[m urm10 scenario 1
+[33m8c34e559[m update name urm09 to urm11 and add new urm09
+[33m1d2e6de8[m urm09 scenario 3
+[33m3e74097d[m urm09 scenario 2
+[33mac0fb872[m urm09 scenario 1
+[33md9ada3a1[m urm08 scenario 2
+[33m2ae4869b[m urm08 scenario 1
+[33m0ccc6da7[m csv for urm08
+[33m046b8946[m urm07 scenario 2
+[33me5fb1443[m urm07 scenario 1
+[33m65651bca[m urm06 scenario 2
+[33m6b30c608[m urm06 scenario 1
+[33m75fa5f28[m urm05 scenario 3
+[33m302ebb29[m urm05 scenario 2
+[33m7bd4040a[m urm05 scenario 1
+[33m5690f827[m update
+[33m29748dbd[m update
+[33mfce0f2d0[m urm04 scenario 5
+[33me3d35c0d[m urm04 scenario 4
+[33mac85b086[m urm04 scenario 3
+[33m7a06b2b1[m urm04 scenario 2
+[33m917f38f6[m urm04
+[33mef426565[m urm02
+[33m255ab238[m urm03 scenario 4
+[33m0de0bd54[m urm03 scenario 3
+[33mdf37ac90[m urm03 scenario 1
+[33m759eb9ff[m urm03 scenario 2
+[33m1b37d432[m urm01 scenario 9
+[33maaa19ff3[m urm01 scenario 8
+[33mea46fcc4[m urm01 scenario 7
+[33m4f281198[m urm01 scenario 5
+[33m5a30966b[m urm01 scenario 4
+[33m90a32509[m urm01 scenario 3
+[33m2a955b10[m urm01 scenario 2
+[33meb56cafe[m urm01 scenario 4
+[33m60389eb9[m urm01 scenario 1
+[33m8406ca95[m csv forrecurring material
+[33m99b94e4b[m Merge pull request #37 from AutomationQA-TrungTruong/bulk-order-10-1-2023
+[33mfdcc8c5e[m nbo17 scenario 2
+[33mdc616017[m nbo17 scenario 1
+[33m38a0b287[m update
+[33m385b5fd8[m nbo16 scenario 3
+[33m2c8a603f[m nbo16 scenario 2
+[33mf70fcc69[m nbo16 scenario 1
+[33mcd973124[m remove select dropdownlist
+[33ma1fca45f[m nbo14
+[33m903d1089[m nbo13
+[33me0521591[m nbo12
+[33m73f84d2c[m nbo11
+[33m2862f0a6[m nbo10
+[33mef8779d3[m nbo09
+[33m0c03f952[m nbo08
+[33m8ae2cf7c[m update
+[33me329a730[m remove redundant import
+[33mbfc5e302[m remove some redundant import
+[33m5e16d081[m nbo07 scenario 2
+[33m86e1ca24[m nbo07 scenario 1
+[33m0a4b3307[m update
+[33m3d355f21[m nbo06 scenario 2
+[33m8eacb2b4[m nbo06 scenario 1
+[33m80da919d[m nbo06 scenario 1
+[33m035ccb88[m nbo05 scenario 4
+[33m3ac11429[m update
+[33mf2d600c4[m update
+[33m2d3fab59[m nbo05 scenario 3
+[33m15fcd497[m update
+[33m32922b8c[m update
+[33mf245c687[m update
+[33m0b943eff[m update
+[33mec52af27[m nbo02 scenario 2
+[33m452f2a13[m nbo5 scenario 1
+[33m25110cd7[m nbo04 scenario 2
+[33m1afc7731[m nbo04 scenario 1
+[33m7c46faf9[m nbo03 scenario 2
+[33m4fc5c76b[m update
+[33m42aad623[m update
+[33m7fd95c8f[m nbo02 scenario 2
+[33mf599035d[m nbo02 scenario 1
+[33mf08c56b1[m nbo01 scenario 3
+[33mf2b81de0[m update
+[33m88db05f4[m update
+[33m8a5b7eec[m nbo01 scenario 2
+[33m35104a76[m nbo01 scenario 1
+[33m09cf2ce6[m update
+[33m8179cc25[m as
+[33m30bc3170[m Merge pull request #36 from AutomationQA-TrungTruong/bulk-order-03-01-2023
+[33m037eca84[m update
+[33m3d10f63e[m frequency package
+[33mcded53da[m schedule package
+[33m3f0fc3a1[m recurring material
+[33m36f9fa49[m upcoming only
+[33m3b2f9af3[m 3bod
+[33m3c3c8a21[m 2bod 1ub
+[33m3eab9c91[m 1bod 1ub
+[33mc5b6a9b5[m custom billing order
+[33m570822a1[m slot-based package
+[33mfa8c5458[m one-time package
+[33mfe6c9f5d[m one-time fee
+[33m9a892f8d[m one-time material
+[33m50f41f33[m update credential
+[33mdc068730[m update csv for one-time material
+[33m91b4fef1[m update tax and discount
+[33m76316ebb[m select language is EN
+[33m88ec9229[m search and select bulk student
+[33m8da4535f[m Merge pull request #35 from AutomationQA-TrungTruong/lt-32555-28-12-2022
+[33mf12a8303[m scenario 4
+[33me6636dc4[m update
+[33mbf9869ec[m scenario 3
+[33m2f911463[m scenario 2
+[33m7fbf4b16[m odsbusp01 scenario 1
+[33md7b4feb1[m Merge pull request #34 from AutomationQA-TrungTruong/lt-32851-2022-12-20
+[33m14d312ba[m Merge branch 'main' into lt-32851-2022-12-20
+[33m92891f29[m update
+[33mf5179ced[m ASD
+[33m5f43a183[m update
+[33mce99a1ba[m usbp07
+[33m58d06e55[m usbp06 scenario 2
+[33m026dc528[m usbp06 scenario 1
+[33m587ad82b[m usbp05
+[33m1b3f3783[m usbp04 scenario 2
+[33m1f16863b[m update
+[33m5546dcc5[m usbp04 scenario 1
+[33m59480323[m update
+[33m9692c157[m update 03 scenario 4
+[33m62bf3c53[m update 03 scenario 3
+[33ma8b10a27[m update 03 scenario 2
+[33mf0931f1a[m update 02 scenario 3
+[33mafdcf781[m update 02 scenario 2
+[33m78c5ab7b[m update slotbased 02 scenario 1
+[33mc5a8e6d9[m update
+[33m55a939e5[m scenario 4
+[33m7f2538cf[m update slotbased scenario 3
+[33m41d813c9[m update slotbase 01 scenario 2
+[33m04d5401e[m update
+[33m6af55d0f[m usbp01 scenario 1
+[33m4f798aba[m scenario 7
+[33m0710c439[m scenario 7
+[33mc94439e8[m scenario 6
+[33maa756d29[m odsbuotm01 scenario 6
+[33m0d0f0e09[m Merge pull request #33 from AutomationQA-TrungTruong/LT-32851-2022-12-15
+[33md42d7fd3[m[33m ([m[1;31morigin/LT-32851-2022-12-15[m[33m)[m update
+[33m3e397a5a[m scenario 5
+[33m59a65e41[m scenario 4
+[33m53d07b39[m assert order status
+[33mee0ac022[m odsbuotm01 scenario 3
+[33m72c6c693[m odsbuotm01 scenario 2
+[33me5f53204[m remove comment
+[33m99268ab0[m update some code for monday test
+[33m374db6ce[m comment assert comment
+[33mbe126004[m ODSBUOTM01
+[33m12e00e7e[m uotm10
+[33m1e59887a[m uotm08
+[33mff3cc237[m uotm07
+[33m0f63f60b[m uotm07
+[33m322e2e97[m uotm04
+[33m0e31adc8[m uotm03
+[33m51f84eb7[m uotm02
+[33m6e1f0ee6[m uotm02 scenario 1
+[33m950b1856[m remmove.only
+[33ma5cb1e8e[m uotm01 scenario 3
+[33md2e3eae8[m remove discount
+[33mf2dec8dc[m uotm01 scenario 2
+[33m35f66749[m uotm01 scenario 1
+[33m6e2b568c[m assert adjustment price in bod
+[33m771bf060[m assert effective date
+[33m0e98cde2[m Merge pull request #32 from AutomationQA-TrungTruong/order-detail-one-time-materiall-03-12-2022
+[33m5236cbf4[m update
+[33m63a77840[m update
+[33m535a4353[m odfp01 scenario5
+[33m60bb382b[m odmfp01 scenario4
+[33m629a0687[m odfp01 scenario3
+[33m0087cb2e[m odfp01 scenario 2
+[33mb252ab9b[m odfp01 scenario1
+[33m5708468c[m update
+[33md974f536[m odsp scenario5
+[33m8fc7657a[m odsp01 scenario 4
+[33ma1188708[m odsp01 scenario 3
+[33m779362b8[m update
+[33m5e76734e[m odsp01 scenario 2
+[33m0d9804fe[m odsp01 scenario 1
+[33mce040283[m update
+[33m70fbe740[m update
+[33m84189af7[m odrm01 scenario 5
+[33m147373fb[m odrm01 scenario 4
+[33m1306b36d[m odrm01 scenario 3
+[33m722b269e[m odrm01 scenario 1 and 2
+[33ma3ebb793[m update assert discount ins tudent billing
+[33m188e7dca[m odsbp01
+[33m50732a7a[m odotp01
+[33m938ad53f[m update
+[33m9f85fc4b[m ODOTF01
+[33m692b1b63[m ODOTF01 scenario 1
+[33m24a1429f[m ODOTM01
+[33m626c24cc[m odom01 scenario 1
+[33m7e8ab369[m update
+[33m6c742298[m update
+[33mafa04fcb[m Merge pull request #31 from AutomationQA-TrungTruong/lt-30911-2022-11-22
+[33m83af52ef[m[33m ([m[1;31morigin/lt-30911-2022-11-22[m[33m)[m vo07
+[33m421410f5[m update
+[33ma7535df2[m vo06
+[33m570837a0[m update assert cancel tag after void
+[33m063021e0[m vo05
+[33m03a38c3b[m vo08
+[33m5247f0ab[m update
+[33m2b649567[m vo04
+[33mbb58e209[m update
+[33me5fd1c62[m vo03
+[33me68b103e[m assert asociate course
+[33m91104dda[m un comment
+[33me3d8d7d8[m vo02
+[33m3fce49e3[m remove .only
+[33me157eb1f[m vo01
+[33m7ce7de4e[m vo01 scenario 2
+[33mdcdfad57[m Merge pull request #30 from AutomationQA-TrungTruong/lt-30911-2022-11-21
+[33mf61d32fb[m[33m ([m[1;31morigin/lt-30911-2022-11-21[m[33m)[m VO01
+[33m35623c56[m update ele
+[33m73e138d8[m define ele for product list
+[33m44128796[m Merge pull request #29 from AutomationQA-TrungTruong/lt-30685-2022-11-17-acc
+[33m874d9cd0[m void order
+[33m54256f7a[m ncb04
+[33m1d30a673[m ncb03
+[33mb0259172[m ncb03
+[33m8aa13760[m ncb02
+[33m6f7bc609[m update
+[33m6cc2355c[m ncb04
+[33m37121d45[m ncb03
+[33m38746984[m ncb02
+[33mdb1a01b5[m ncp01
+[33m05d0a19d[m update
+[33mab111b94[m assert student billing - billing item
+[33me308fe72[m get all element on student billing page
+[33m52668ab2[m update
+[33ma73d1fad[m update
+[33m5fbca592[m update element for action log
+[33m91af5a9c[m ncb01 order detail billing item
+[33m6031d6b7[m Merge pull request #28 from AutomationQA-TrungTruong/lt-30685-16-11-2022
+[33mc9596a46[m update console log
+[33m102ad68b[m update assert content for custom billing
+[33ma1666950[m update
+[33m386d3442[m ncb01
+[33m8bb70993[m update
+[33macef82a1[m ele for order detail page and assert step general
+[33m29232fd9[m nbc01
+[33mad88d7be[m prepare all ele for custom billing order
+[33m2236f45d[m add ele
+[33me5d93b28[m Merge pull request #27 from AutomationQA-TrungTruong/lt-30089-16-11-2022
+[33mc911fcb3[m nfp09
+[33m234052f8[m csv for nfp09
+[33md4ddffef[m nfp13
+[33md7b1a912[m nfp12
+[33m95bdbe5d[m nfp11
+[33m50ff1a70[m nfp10
+[33m8b9f5890[m nfp08
+[33mee4757b2[m nfp07
+[33m75be3cfb[m nfp06
+[33mee96c581[m nfp05
+[33m391bd15f[m nfp04
+[33madc45ae7[m nfp03
+[33ma4fcdf89[m NFP02
+[33ma0f0fd8a[m update some naming
+[33mdedafa78[m update naming for some step
+[33m1687f9e2[m update naming for assertion
+[33m51aceca8[m update some naming
+[33mef28efbb[m csv for frequency package
+[33m9a9e9e45[m naming csv
+[33meeab2af2[m Merge pull request #26 from AutomationQA-TrungTruong/lt-30090-14-11-2022
+[33m03f14b14[m nsp09
+[33m11388ef7[m nsp09 scenario 1
+[33mf0189045[m nsp09 csv
+[33m8dc25bb8[m nsp13
+[33m46eab445[m nsp12
+[33m616b3b99[m nsp11
+[33mc5b95a7e[m nsp10
+[33m1da78829[m nsp08
+[33m16e18904[m nsp07
+[33md41c0973[m update csv file
+[33mc7c50aac[m nsp07
+[33me228d24b[m nsp06
+[33m82c9b327[m nsp05
+[33m1edf5c26[m csv for nsp05
+[33m7919c0c9[m nsp04
+[33mc96cd951[m csv for nrm04
+[33m4a06316e[m nsp03 assert associate course upcoming
+[33mb8d64a92[m nsp03
+[33m0f5e00c4[m nsp03 csv
+[33m1b7cd67c[m nsp03 update naming
+[33m7ec20e91[m nsp02
+[33m4f2fc6fe[m csv for nsp02
+[33mc36ef306[m update
+[33m6d2de1eb[m update
+[33m7cac1605[m Merge pull request #25 from AutomationQA-TrungTruong/lt-29574-10-11-2022-acc
+[33m04227984[m[33m ([m[1;31morigin/lt-29574-10-11-2022-acc[m[33m)[m nrm13
+[33m5241857c[m nrm12 scenario 1
+[33mf5257ec0[m nrm11 scenario 5
+[33m48e840b1[m nrm11 scenario 4
+[33m255d462f[m nrm11 scenario 3
+[33me2999756[m nrm11 scenario 2
+[33m4801ef57[m nrm11 scenario 1
+[33m16c0f165[m nrm10
+[33m7cbb30a6[m nrm09 scenario 2
+[33mb263b6e5[m update naming when assert fflag product
+[33mb1e8fbd4[m nrm09 scenario 01
+[33m2499f4b0[m update
+[33m4474ed75[m Merge pull request #24 from AutomationQA-TrungTruong/lt-29574-10-11-2022
+[33mf41d5b8b[m nrm08
+[33mb5fed859[m nrm07
+[33m6ef33d8d[m csv for nrm07
+[33m91e81ccf[m nrm06 scenario 3
+[33m16ce8a7b[m nrm06 scenario 2
+[33m7141eb13[m nrm06
+[33m890f283a[m Merge pull request #23 from AutomationQA-TrungTruong/lt-29574-acc
+[33ma0f4761d[m naming csv
+[33mef59004d[m nrm05
+[33m14df06a9[m csv for nrm05 product
+[33m9c26f764[m csv for nrm05
+[33m590021e4[m update assert final price for nrm03/04
+[33m00e1cba3[m nrm04
+[33me631f958[m update csv file for nrm04
+[33md986c911[m nrm03 and update wording for nrm02
+[33m03ec08da[m UPDATE CSV FILE FOR NRM03
+[33m14f3f35f[m split some step to another page
+[33md5fad4b5[m update
+[33m34513543[m update 1 upcoming billing
+[33m60d28a55[m Merge pull request #22 from AutomationQA-TrungTruong/lt-29574-08-11-2022
+[33m9298afa2[m update select start date
+[33m97ab98cf[m csv file for recurring material with UB
+[33m93211a93[m update
+[33m21ee6e96[m update
+[33m40b8b83a[m update
+[33m42c254f6[m update
+[33m1dd94a28[m Merge pull request #21 from AutomationQA-TrungTruong/lt-29574-7-11-2022
+[33mc09e6333[m[33m ([m[1;31morigin/lt-29574-7-11-2022[m[33m)[m update naming
+[33m142b65f6[m Merge pull request #20 from AutomationQA-TrungTruong/lt-29382-03-11-2022
+[33m6aea3aab[m update some redundant text
+[33mb648d632[m update notp06
+[33m70bf03ed[m remove one-time package old version
+[33m21beac94[m update notp05
+[33m80d5fd23[m update csv for notp 05 and 06
+[33m58bf4768[m update NOTP04
+[33m4931de08[m update notp03
+[33m0a8dba21[m add notp02
+[33m8ff66de1[m update one-time
+[33m5df6aa70[m update notp01
+[33m692ae254[m update one-time package
+[33m3f464021[m update one time package
+[33m22ea2124[m one-time-package
+[33md2f92448[m Merge pull request #19 from AutomationQA-TrungTruong/lt-28871-03-11-2022
+[33m5b3f5cd1[m[33m ([m[1;31morigin/lt-28871-03-11-2022[m[33m)[m done slotbased
+[33m6378d232[m update
+[33m3dc5e1f6[m Merge pull request #18 from AutomationQA-TrungTruong/lt-28871-02-01-2022-2
+[33m787449da[m[33m ([m[1;31morigin/lt-28871-02-01-2022-2[m[33m)[m update
+[33m2f7d9d87[m update
+[33m26202201[m update
+[33m02c2051d[m update
+[33m1b60b6a0[m Merge pull request #17 from AutomationQA-TrungTruong/lt-28871-02-11-2022
+[33m40163637[m[33m ([m[1;31morigin/lt-28871-02-11-2022[m[33m)[m update discount step
+[33md5b093b3[m Merge pull request #16 from AutomationQA-TrungTruong/lt-28871-01-11-2022
+[33m1f613bc7[m UPDATE
+[33m1ee91747[m UPDATE
+[33m44c5f51b[m UPDATE
+[33m2822cdf8[m rework_DialogCMSCreateOrder
+[33maf9fcf42[m Merge pull request #15 from AutomationQA-TrungTruong/LT-28871-slot-based
+[33mce3639a7[m[33m ([m[1;31morigin/LT-28871-slot-based[m[33m)[m update
+[33m3da7ea83[m Merge pull request #13 from AutomationQA-TrungTruong/slot-based-test-new-3
+[33m8a3df5c3[m Merge branch 'main' into slot-based-test-new-3
+[33mf24268c4[m Merge pull request #14 from AutomationQA-TrungTruong/slot-based-test-new
+[33m731b1210[m test
+[33m1cbf29a1[m[33m ([m[1;31morigin/slot-based-test-new[m[33m)[m test
+[33me8d2b7c9[m Merge pull request #12 from AutomationQA-TrungTruong/slot-based-test
+[33m738061c0[m[33m ([m[1;31morigin/slot-based-test[m[33m)[m test branch
+[33m28ee7b20[m update test for slot based
+[33md7def37f[m remove redundant file
+[33mcf4d1307[m update
+[33m37f0c2dc[m update
+[33m9784efa5[m update
+[33m41ae72a5[m update one-time fee
+[33mbf5e3e00[m update
+[33m4668a61a[m update
+[33m5ccd79cc[m update
+[33md9485eb3[m update test
+[33m72e5cd04[m update test
+[33m60b2d323[m update
+[33m35fb3214[m update
+[33m81474c40[m Merge pull request #11 from AutomationQA-TrungTruong/re-work-POM
+[33m4757e669[m[33m ([m[1;31morigin/re-work-POM[m[33m)[m update
+[33m172a3611[m Merge branch 'main' of https://github.com/AutomationQA-TrungTruong/Automation-learning into re-work-POM
+[33m7a9fe03a[m update
+[33m073cab7e[m Merge pull request #10 from AutomationQA-TrungTruong/revert-9-re-work-POM
+[33m278f634d[m[33m ([m[1;31morigin/revert-9-re-work-POM[m[33m)[m Revert "Re work pom"
+[33me42a558e[m Merge pull request #9 from AutomationQA-TrungTruong/re-work-POM
+[33m0647d2f4[m update
+[33m95ba72f8[m update
+[33m18e7be27[m update
+[33m648737af[m write new test
+[33m90173da3[m update
+[33m093db577[m update new
+[33m957a493e[m run auto test for monday
+[33m97eb4453[m test OOP
+[33m08c257ea[m update order detail for one time material
+[33m2ecf3c5b[m update
+[33m95991688[m update
+[33m7705b649[m LT-18578
+[33m0656a4b0[m implement new test for one-time fee order
+[33mae38160b[m update element
+[33m1e195768[m create one-time fee order
+[33m1a4819db[m update dataset for import
+[33mce1d459a[m fix test base on new tax calculating
+[33me3ba447d[m update auto
+[33m864512d3[m update auto
+[33m93a6066d[m update auto
+[33m7db946fd[m complete import for monday test
+[33m17792839[m import fail
+[33m3a8e6ea7[m import discount fail
+[33m5dc34de3[m update if clause to switch clause for import fail
+[33mc29febc6[m update import fail
+[33mecde5c59[m update
+[33mb4bf3d87[m update upload file to run monday test
+[33m26d93103[m update trung truong
+[33m04533644[m create one-time material with discount
+[33me8010475[m update
+[33ma6b528e6[m create one time with inclusive tax
+[33m5ca86288[m update variable
+[33m0a892dd4[m split variables
+[33me5da0684[m create one-time material order with incl tax
+[33mcb03fac1[m get current date
+[33md76ae828[m create dialog cms create order page
+[33m6b3af50d[m Merge pull request #8 from AutomationQA-TrungTruong/Hung
+[33m30b92486[m[33m ([m[1;31morigin/Hung[m[33m)[m Merge branch 'main' into Hung
+[33mf88b528e[m Hung update
+[33m0ffb4f12[m Hung update
+[33m62a525c0[m Hung update
+[33m43de6305[m updated
+[33m742d6643[m Merge remote-tracking branch 'origin/main' into Hung
+[33m770561a1[m trung update
+[33m9fb23264[m Merge branch 'main' of https://github.com/AutomationQA-TrungTruong/Automation-learning
+[33m20df979f[m trung update
+[33m52839479[m Merge pull request #7 from AutomationQA-TrungTruong/Hung
+[33m2b188fad[m Hung Update
+[33mee62098c[m Merge branch 'main' of https://github.com/AutomationQA-TrungTruong/Automation-learning
+[33m21a2dfb2[m complete auto for upload file
+[33m78548d01[m Merge pull request #6 from AutomationQA-TrungTruong/Hung
+[33mb8ad7c95[m Hung update
+[33m08905469[m hung update
+[33mc5c2fc33[m create staff test successfully
+[33mcb64ed28[m updated element mastermanagement
+[33md9c6419d[m update close browser after complete run test
+[33m50cf2e40[m update beforeEach
+[33md9ee7215[m Trung update
+[33mdde2dd31[m Merge pull request #4 from AutomationQA-TrungTruong/Hung-clone
+[33m9f44a5d2[m hung update
+[33ma50ff750[m Hung update
+[33m79fd94f4[m Hung update
+[33m3fb20df0[m hung update
+[33mf62a9990[m hung update
+[33m5de45c60[m hung update
+[33m928123fa[m hung update
+[33mb435d8bc[m Hung update
+[33me4fa6a50[m Merge branch 'main' of https://github.com/AutomationQA-TrungTruong/Automation-learning
+[33ma698f7c0[m update script
+[33m4e2827b6[m update script
+[33m45446654[m Merge branch 'main' of https://github.com/AutomationQA-TrungTruong/Automation-learning into main
+[33m7fb57787[m ngan's auto
+[33m8e0f4820[m Merge pull request #3 from AutomationQA-TrungTruong/Hung-clone
+[33m8c8fa6e2[m Hung update
+[33mfa73567f[m hung update
+[33mf54cb84b[m hung update
+[33mf9aaf38b[m hung update
+[33meac2e609[m hung update
+[33m527097bf[m update script
+[33m015bc5d2[m update script
+[33m562e9c54[m update script
+[33m61980fcf[m update TS001
+[33m69e127d3[m update code
+[33m7aa5a14f[m update cms-login page
+[33me3c9fcc7[m implement discount import
+[33m27c240c0[m create POM for payment
+[33m0c06eafa[m update source code
+[33m8e57eae1[m Merge pull request #2 from AutomationQA-TrungTruong/clone-Hung
+[33m2bf5b24e[m[33m ([m[1;31morigin/clone-Hung[m[33m)[m update
+[33m8bf2eac0[m update
+[33ma781e2c4[m update
+[33m81125c33[m Automation
+[33m70cd17ee[m Merge pull request #1 from AutomationQA-TrungTruong/clone-Hung
+[33m7ead659b[m update
+[33m646a1a21[m update
+[33mdc4ad4cf[m update
+[33ma549207e[m update
+[33me9ab6f61[m update
+[33m171ed0c1[m quota
+[33mf8afbee6[m yeah
+[33m43c1661c[m Initial commit

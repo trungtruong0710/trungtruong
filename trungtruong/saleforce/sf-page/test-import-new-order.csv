@@ -1,0 +1,12 @@
+username,product_id,location_id,start_date,discount_id,timezone,course_ids,slots,testScenario,orderType,testStatus
+24020825,a0rJ2000000boZNIAY,01HSAYP1JJBVT5DEKY2H3WYYXW,1991-01-01,a0IJ2000000PN6FMAW,7,,,one-time material,submit,passed
+24020825,a0rJ2000000bojVIAQ,01HSAYP1JJBVT5DEKY2H3WYYXW,1991-01-01,a0IJ2000000PN6FMAW,7,,,one-time material custom_billing_date > current date,submit,passed
+24020825,a0rJ2000000boZNIAY,01HSAYP1JJBVT5DEKY2H3WYYXW,1991-01-01,a0IJ2000000PN6FMAW,7,,,one-time material,draft,passed
+24020825,a0rJ2000000bojVIAQ,01HSAYP1JJBVT5DEKY2H3WYYXW,1991-01-01,a0IJ2000000PN6FMAW,7,,,one-time material custom_billing_date > current date,draft,passed
+24020825,a0rJ2000000boZNIAY,01HSAYP1JJBVT5DEKY2H3WYYXW,1991-01-01,a0IJ2000000PN6FMAW,7,,,one-time material not define price,draft,passed
+24020825,a0rJ2000000boZNIAY,01HSAYP1JJBVT5DEKY2H3WYYXW,1991-01-01,a0IJ2000000PN6FMAW,7,,,one-time material not define price,submit,passed
+
+24020829,a0rJ2000000cIc1IAE,01HSAYP1JJBVT5DEKY2H3WYYXW,1991-01-01,a0IJ2000000PdRVMA0,7,,,frequency unique package,submit,passed
+24020829,a0rJ2000000cIc1IAE,01HSAYP1JJBVT5DEKY2H3WYYXW,2001-01-01,a0IJ2000000PdRVMA0,7,,,frequency unique package,submit,passed
+24020829,a0rJ2000000cIc1IAE,01HSAYP1JJBVT5DEKY2H3WYYXW,2011-01-01,a0IJ2000000PdRVMA0,7,,,frequency unique package,submit,passed
+24020829,a0rJ2000000cIc1IAE,01HSAYP1JJBVT5DEKY2H3WYYXW,2021-01-01,a0IJ2000000PdRVMA0,7,,,frequency unique package,submit,passed

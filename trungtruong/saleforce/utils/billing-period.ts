@@ -1,0 +1,30 @@
+export default class billingPeriod{
+    public static period_1991_2020_Ratio23: string = '1991-2020 (billing ratio: 2/3)'
+    public static period_2021_2050_Ratio03: string = '2021-2050 (billing ratio: 0/3)'
+    public static period_2021_2050_Ratio13: string = '2021-2050 (billing ratio: 1/3)'
+    public static period_2021_2060_Ratio44: string = '2021-2060 (billing ratio: 4/4)'
+    public static period_2051_2080_Ratio03: string = '2051-2080 (billing ratio: 0/3)'
+    public static period_2051_2080_Ratio13: string = '2051-2080 (billing ratio: 1/3)'
+    public static period_2051_2080_Ratio23: string = '2051-2080 (billing ratio: 2/3)'
+    public static period_2081_2110_Ratio13: string = '2081-2110 (billing ratio: 1/3)'
+
+    public static period_1991_2020: string = '1991-2020'
+    public static period_2021_2050: string = '2021-2050'
+    public static period_2021_2060: string = '2021-2060'
+    public static period_2051_2080: string = '2051-2080'
+    public static period_2061_2100: string = '2061-2100'
+    public static period_2081_2110: string = '2081-2110'
+    public static period_2101_2140: string = '2101-2140'
+    public static period_2111_2140: string = '2111-2140'
+    public static period_2141_2180: string = '2141-2180'
+
+    public static ratio33: string = '(billing ratio: 3/3)'
+    public static ratio23: string = '(billing ratio: 2/3)'
+    public static ratio13: string = '(billing ratio: 1/3)'
+    public static ratio03: string = '(billing ratio: 0/3)'
+    public static ratio44: string = '(billing ratio: 4/4)'
+    public static ratio34: string = '(billing ratio: 3/4)'
+    public static ratio24: string = '(billing ratio: 2/4)'
+    public static ratio14: string = '(billing ratio: 1/4)'
+    public static ratio11: string = '(billing ratio: 1/1)' // This ratio is use to bypass fail test
+}

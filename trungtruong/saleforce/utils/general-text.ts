@@ -1,0 +1,15 @@
+export default class generalText{
+    public static adjustment: string = '[Adjustment] '
+    public static updateSchedule: string = 'Update Scheduled'
+    public static withdrawalSchedule: string = 'Withdrawal Scheduled'
+    public static pausedSchedule: string = 'Paused Scheduled'
+    public static billingRatio: string = 'billing ratio:'
+    public static update: string = 'UPDATE'
+    public static enrolled: string = 'ENROLLED'
+    public static withdrawal: string = 'WITHDRAWAL'
+    public static loa: string = 'LOA'
+    public static resume: string = 'RESUME'
+    public static voidEnrolled: string = 'VOID ENROLLED'
+    public static voidWithdrawal: string = 'VOID WITHDRAWAL'
+    public static voidLOA: string = 'VOID LOA'
+}
